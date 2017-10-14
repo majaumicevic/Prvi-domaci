@@ -1,0 +1,34 @@
+body{
+	font-family: Tahoma;
+	background-color:#FE5757;
+}
+#text{
+	background: #FFE4E1;
+	padding:30px;
+	border-style: solid;
+	margin:auto;
+
+}
+.naslov{
+	position:relative;
+	left:350px;
+}
+.naslov1{
+	position:relative;
+	left:300px;	
+}
+img{
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+	box-shadow: 10px 10px #D8DEDE;
+	position:relative;
+	left:350px;
+}
+#wrapper{
+	background:#B62020;
+	width:900px;
+	margin:auto;
+	padding:30px;
+}
+
